@@ -27,9 +27,9 @@ The company is experiencing significant customer churn but lacks clear insights 
 ## 📊 Dashboard Features (Power BI)
 -	KPI Cards (Total Customers, Churn Rate, Average Monthly Charges, Internet Users)
 -	Churn analysis by:
-  -  	Contract type
-  -  	Payment method
-  -  	Internet service
+  - Contract type
+  - Payment method
+  - Internet service
 -	Customer tenure analysis 
 -	Monthly charges vs churn relationship
 -	Interactive filters (Gender, Contract, Internet Service)
